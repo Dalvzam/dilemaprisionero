@@ -1,3 +1,8 @@
+/*
+ * 
+ * author: Dalzam
+ * 
+ */
 public class JugadorBob extends Jugador{
     // Este jugador responderá ROBAR en las partidas impares y COLABORAR en las partidas pares
     int numPartida;

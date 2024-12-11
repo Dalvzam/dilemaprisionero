@@ -2,6 +2,8 @@
 
 Este proyecto consiste en enfrentar a diferentes jugadores del dilema del prisionero
 
+Author: Dalzam
+
 ## No son requisitos pero es aconsejable:
 
 - El codigo se ha escrito con la version de java 23 asi que es recomendable usarla para ejecutar el codigo 

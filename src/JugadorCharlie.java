@@ -1,3 +1,8 @@
+/*
+ * 
+ * author: Dalzam
+ * 
+ */
 public class JugadorCharlie extends Jugador{
     // Este jugador responderá COLABORAR en su primera partida y en las siguientes imita  la jugada previa de su rival
     int numPartida;

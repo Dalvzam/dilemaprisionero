@@ -1,3 +1,8 @@
+/*
+ * 
+ * author: Dalzam
+ * 
+ */
 import java.util.Scanner;
 
 public class DilemaDelPrisionero {

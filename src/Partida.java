@@ -1,3 +1,8 @@
+/*
+ * 
+ * author: Dalzam
+ * 
+ */
 // Clase para manejar una partida entre dos jugadores
 class Partida {
     private Thread jugador1;

@@ -1,3 +1,8 @@
+/*
+ * 
+ * author: Dalzam
+ * 
+ */
 // Superclase Jugador
 abstract class Jugador implements Runnable {
     protected int id;

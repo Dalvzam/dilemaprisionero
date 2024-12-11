@@ -1,3 +1,8 @@
+/*
+ * 
+ * author: Dalzam
+ * 
+ */
 import java.util.Random;
 
 public class JugadorAlice extends Jugador{
