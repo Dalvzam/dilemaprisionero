@@ -11,7 +11,7 @@ public class DilemaDelPrisionero {
             System.out.println("\nPartida " + (i + 1) + ":");
 
             // Crear jugadores
-            Thread colaborador = new Thread(new JugadorColaborador(1));
+            Thread colaborador = new Thread(new JugadorBob(1, i+1));
             Thread ratero = new Thread(new JugadorAlice(2));
 
             // Crear la partida
