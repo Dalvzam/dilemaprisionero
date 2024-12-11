@@ -5,6 +5,10 @@ public class JugadorCharlie extends Jugador{
     // Variable para almacenar la acción de la partida anterior
     private Accion accionRivalAnterior = Accion.COLABORAR;
 
+    public JugadorCharlie(int id) {
+        super(id);
+    }
+
     public JugadorCharlie(int id, int numPartida) {
         super(id);
         this.numPartida = numPartida;
