@@ -1,10 +1,10 @@
 import java.util.Random;
 
-public class Alice extends Jugador{
+public class JugadorAlice extends Jugador{
     //Este Jugador responderá aleatoriamente
     Random random = new Random();
 
-    public Alice(int id) {
+    public JugadorAlice(int id) {
         super(id);
     }
 
