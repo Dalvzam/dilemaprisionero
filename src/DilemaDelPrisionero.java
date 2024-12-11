@@ -5,7 +5,7 @@ public class DilemaDelPrisionero {
     public static void main(String[] args) throws InterruptedException {
         Scanner scanner = new Scanner(System.in);
 
-        int numeroDePartidas = 5; // Número de partidas, se puede modificar.
+        int numeroDePartidas = 10; // Número de partidas, se puede modificar.
 
         // Mostrar mensaje de inicio
         System.out.println("¡Comenzando el juego del Dilema del Prisionero!\n");
